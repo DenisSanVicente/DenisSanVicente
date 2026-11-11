@@ -1,20 +1,29 @@
 # Denis San Vicente
 
-Développeur Java spécialisé dans la conception d'applications backend avec Spring Boot.
+Développeur Java diplômé d'OpenClassrooms (titre RNCP de niveau 6), orienté vers le développement backend avec Spring Boot.
 
-Mes projets m'ont permis de mettre en pratique la création d'API REST, 
-la persistance des données, la sécurisation des applications, les tests, 
-ainsi que les traitements asynchrones et multithreadés.
+Mes réalisations m'ont permis de travailler sur la conception d'API REST, les architectures microservices, la persistance des données, la sécurité des applications, les tests et les traitements multithreadés.
 
 ## Compétences techniques
 
-**Backend :** Java · Spring Boot · Spring Data JPA · Spring Security  
-**API & données :** API REST · SQL · MySQL · Hibernate  
-**Outils :** Docker · Git · GitHub · Maven · JUnit
+**Backend :** Java 17 · Spring Boot · Spring Data JPA · Spring Security  
+**Architecture :** API REST · Microservices · Spring Cloud Gateway  
+**Bases de données :** MySQL · MongoDB · Hibernate  
+**Outils :** Docker · Docker Compose · Git · GitHub · Maven · JUnit
 
 ## Projets principaux
 
-### TourGuide
+### [Medilabo Solutions](https://github.com/DenisSanVicente/medilabo-solutions)
+
+Application web de suivi médical et d'évaluation du risque de diabète, développée avec une architecture microservices.
+
+- Cinq microservices Spring Boot communiquant via des API REST
+- Gestion des patients et des notes médicales avec MySQL et MongoDB
+- Authentification JWT avec Spring Security
+- Conteneurisation avec Docker Compose
+- Tests automatisés avec JUnit et Mockito
+
+### [TourGuide](https://github.com/DenisSanVicente/TourGuide)
 
 Application de recommandations touristiques développée avec Java et Spring Boot.
 
@@ -23,7 +32,7 @@ Application de recommandations touristiques développée avec Java et Spring Boo
 - Calcul des attractions les plus proches
 - Tests fonctionnels et tests de performance
 
-### Poseidon Capital Solutions
+### [Poseidon Capital Solutions](https://github.com/DenisSanVicente/Poseidon_Capital_Solutions)
 
 Application de gestion financière développée avec Java et Spring Boot.
 
@@ -31,18 +40,6 @@ Application de gestion financière développée avec Java et Spring Boot.
 - Persistance avec Spring Data JPA et MySQL
 - Authentification et gestion des autorisations avec Spring Security
 
-### Pay My Buddy
+## Objectif professionnel
 
-Application de gestion de transactions financières.
-
-- Gestion des utilisateurs, comptes et transactions
-- Persistance des données avec JPA / Hibernate
-- Base de données relationnelle MySQL
-
-## Projet en cours
-
-### Medilabo Solutions
-
-Application basée sur une architecture microservices développée avec Java et Spring Boot.
-
-Projet actuellement en cours de développement.
+À la recherche d'une première opportunité en développement Java / Spring Boot, idéalement dans la métropole lilloise.
